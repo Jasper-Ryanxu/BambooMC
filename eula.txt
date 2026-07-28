@@ -1,0 +1,4 @@
+# 使用本服务端即表示您同意 Minecraft 最终用户许可协议 (EULA)。
+# 若您不同意，请勿运行此服务器。
+# 将 eula 的值改为 true 即表示您同意 EULA。
+eula=false
